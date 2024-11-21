@@ -1,7 +1,7 @@
 # Data-Professional-Breakdown-Survey-
 ## Project Introduction
 ---
-My Studies in designing a data visualization project using Power BI under the tutelage of Alex the analyst
+My personal project culminating in my Studies of designing a data visualization project using Microsoft PowerBI 
 ## Project Overview
 ---
 In this project we got very distinct and real life responses from data professionals across the globe. So many parameters where to be analysed with a view of arriving at great statistical insights into the world of data professionals. 
